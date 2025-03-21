@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🥘 Frontend Recipe – Animations & UI Playground
 
-## Getting Started
+Welcome to **Frontend Recipe**, a personal project built for practicing frontend animations and sharing cool, reusable UI components with the dev community.
 
-First, run the development server:
+Here you'll find small, focused components using:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ⚡ **Framer Motion** – For delightful, interactive animations  
+- 🎨 **Tailwind CSS** – For utility-first, clean styling  
+- ⚛️ **React (TypeScript)** – For strongly-typed, component-driven UIs  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The goal is simple:
+> **Practice. Improve. Share.**  
+Build components that look great, feel smooth, and are easy to reuse — and drop tips & demos on Twitter to help others too.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ✨ What's Inside?
 
-## Learn More
+- Rainbow gradient text
+- Animated fade-ins
+- Neon sign effects
+- Hover interactions
+- Scroll reveals (soon)
+- And more as I learn and grow 🧠
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧪 Try It Out
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Want to use one of these components in your own project? Clone this repo, copy a component, or remix it as needed. Everything’s modular and focused on learning-by-building.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Need a Landing Page Fast?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out [**QuickLaunch**](https://www.quicklaunch.run) – my premium **Next.js + Tailwind + Framer Motion** landing page template.
+
+Perfect for startups, products, or devs who need a page **fast** — and with animation baked in.
+
+---
+
+> Follow along on Twitter as I build this out: `@yourhandle`  
+> Contributions and feedback welcome!
+
