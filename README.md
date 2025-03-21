@@ -39,6 +39,6 @@ Perfect for startups, products, or devs who need a page **fast** — and with an
 
 ---
 
-> Follow along on Twitter as I build this out: `@yourhandle`  
+> Follow along on Twitter as I build this out: `@rcuffdev`  
 > Contributions and feedback welcome!
 
